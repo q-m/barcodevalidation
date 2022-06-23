@@ -1,3 +1,13 @@
+About this fork
+===============
+
+It appears the maintainer of the upstream/official gem is currently not very active. We want to use the multiple patches we've created PRs for, so we've decided to merge them here in order to have a version that works for _us_.
+
+- Base version: 2.4.0 ([1e3e0f0](https://github.com/marketplacer/barcodevalidation/tree/1e3e0f0bcd9227b0510f0823428c6d8959bbd3ee))
+- Merged PR: [Fix: re-expose GTIN#check_digit as public method](https://github.com/marketplacer/barcodevalidation/pull/28)
+- Merged PR: [https://github.com/marketplacer/barcodevalidation/pull/29](https://github.com/marketplacer/barcodevalidation/pull/29)
+- Update to the readme to add this section
+
 barcodevalidation
 =================
 
